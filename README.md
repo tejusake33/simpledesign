@@ -1,2 +1,0 @@
-# simpledesign
-public:/index.html

@@ -1,0 +1,2 @@
+# simpledesign
+public:/index.html
